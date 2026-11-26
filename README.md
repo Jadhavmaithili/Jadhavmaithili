@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Maithili 👋
 
-<!--
-**Jadhavmaithili/Jadhavmaithili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresher frontend developer from Pune, India.
+I love building websites and learning something new every day.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+HTML | CSS | JavaScript | React | Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Live-Gallery**: A photo gallery website
+- **CRM**: A customer management app
+
+## 🎯 Currently
+- Improving my React skills
+- Looking for a **frontend / web development internship**
+
+## 📫 Connect with me
+- Email: maithilijadhav1111@gmail.com
