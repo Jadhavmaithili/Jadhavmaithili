@@ -16,3 +16,4 @@ HTML | CSS | JavaScript | React | Git & GitHub
 
 ## 📫 Connect with me
 - Email: maithilijadhav1111@gmail.com
+- LinkedIn - https://www.linkedin.com/in/maithili-jadhav-882081276
